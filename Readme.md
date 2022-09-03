@@ -10,7 +10,6 @@
 
 
 - Run the following command
->>>>>>> parent of c3dd083 (Update Readme.md)
 
 ~~~
 docker compose -f docker.yml up
