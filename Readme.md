@@ -4,11 +4,10 @@
 <h3 align="left"> How To Run </h3>
 
 - Clone the project
-<<<<<<< HEAD
 - Start docker
 - Navigate to project directory
 - Run the following commands
-=======
+
 
 - Run the following command
 >>>>>>> parent of c3dd083 (Update Readme.md)
